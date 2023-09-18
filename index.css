@@ -1,0 +1,87 @@
+.login{
+    margin-right:15px;
+    margin-left:15px;
+
+}
+.row{
+    margin-top:20px;
+    
+    text-align: center;
+    border:solid black 2px;
+    margin-left:20px;
+    margin-right:20px;
+    padding:20px;
+    padding-left:170px;
+    padding-top:50px;
+    padding-bottom:50px;
+    margin-bottom:30px;
+    height:550px;
+    background-image:url('./Slow-learners-Characteristics-and-Tips-to-improve_3.jpg');
+    background-repeat:no-repeat ;
+    background-size:100% 100%;
+ 
+
+    
+}
+
+.navbar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(239, 187, 123);
+}
+.card-title{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    font-weight:bolder;
+}
+.card-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:15pt;
+}
+.btn{
+    text-align: center;
+}
+.card{
+    width:450px;
+    height:450px;
+    border:solid black 2px;
+    padding:10px;
+    background-color: 
+    
+}
+.image{
+    width: 300px;
+    height:200px;
+    margin-top:20px;
+    border:solid black 2px;
+
+}
+.image1{
+    width: 300px;
+    height:200px;
+    margin-top:55px;
+    border:solid black 2px;
+
+}
+.btn{
+    font-size:20pt;
+    border:solid black 1px;
+}
+.form-group{
+    font-size: 20pt;
+    font-weight: bold;
+}
+.form-text{
+    font-size:13pt;
+    font-weight: normal;
+}
+.form-control{
+    border:solid black 2px;
+}
+.container-fluid{
+    font-size:20pt;
+    background-color:
+}
+.navbar-brand{
+    font-size:20pt;
+}
